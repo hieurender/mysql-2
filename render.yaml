@@ -1,6 +1,6 @@
 services:
 - type: pserv
-  region: singapore
+  region: Singapore
   name: mysql
   plan: standard
   env: docker
